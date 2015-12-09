@@ -60,6 +60,7 @@
       <map>
         <entry key="$USER_HOME$/projects/datastax/cstar/cassandra3_env/bin/python2.7" value="true" />
         <entry key="$USER_HOME$/projects/python/envs/dtest_py2/bin/python" value="true" />
+        <entry key="$USER_HOME$/projects/python/envs/dtest_py2/bin/python2.7" value="true" />
         <entry key="$USER_HOME$/projects/tools/miniconda/envs/dtest_trunk/bin/python2.7" value="true" />
       </map>
     </option>
