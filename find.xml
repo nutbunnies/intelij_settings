@@ -1,5 +1,8 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '/Users/andrewhust/projects/datastax/cstar/ccm/ccmlib/node.py'" />
+    <option name="defaultScopeName" value="File '/Users/andrewhust/projects/datastax/cstar/ccm/ccmlib/node.py'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/andrewhust/projects/datastax/cstar/ccm/ccmlib/node.py'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
